@@ -41,7 +41,7 @@
 
 
                 <metal:slot define-slot="body">
-                    <div id="content">
+                    <article id="content">
 
                         <metal:bodytext define-slot="main">
 
@@ -74,7 +74,7 @@
                          </section>
 
                         </metal:bodytext>
-                    </div>
+                    </article>
                 </metal:slot>
 
             </div>
